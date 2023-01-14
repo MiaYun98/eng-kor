@@ -1,3 +1,46 @@
+textarea {
+    margin: 2.5%;
+    font-size: 30px;
+    border: transparent;
+    min-height: 44vh;
+    min-width: 28vw;
+    max-width: 28vw;
+    max-height: 45vh;
+    background-color: transparent;
+}
+
+button {
+    text-align: center;
+    font-size: 20px;
+    margin: 2.5%;
+    border-radius: 20px;
+    background-color: rgb(20, 90, 67);
+    color: white;
+    padding: 10px;
+}
+
+.content {
+    justify-content: center;
+    display:flex;
+}
+
+.box {
+    height: 50vh;
+    width: 30vw;
+    border: 2px solid lightblue;
+    background-color: lightgray;
+    border-radius: 30px;
+    margin: 2.5%;
+}
+
+.buttonDiv {
+    text-align: center;
+}
+
 .translate {
     font-family: 'Hi Melody', cursive;
+    background-color: transparent;
+    margin: 2.5%;
+    font-size: 30px;
 }
+
