@@ -1,6 +1,6 @@
 const Noun = require("./Noun")
 const Verb = require("./Verb")
-const 
+const Adverb = require("./Adverb")
 
 module.exports = {
     Noun,
