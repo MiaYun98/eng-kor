@@ -4,5 +4,6 @@ const Adverb = require("./Adverb")
 
 module.exports = {
     Noun,
-    Verb
+    Verb,
+    Adverb
 }
