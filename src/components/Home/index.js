@@ -29,7 +29,7 @@ export default function Home() {
         let korObj = "너"
 
         if(subject == "I") {
-            korsub = "나"
+            korSub = "나"
         }
 
         setTranslate(korSub + " " + korObj + " " + korVerb)
