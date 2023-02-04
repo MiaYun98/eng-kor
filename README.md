@@ -2,9 +2,9 @@
 
 This is an react website deployed with Netlify 
 
-It is a website that people can translate English in to Korean which is Non-formal way
+It is a website that people can translate English in to Korean which is Non-formal way.
 
-
+Help people to talk with thier Korean friends and learn Korean in a more practical way
 
 ## User story 
 
