@@ -28,10 +28,6 @@ export default function Home() {
         let korVerb = "사랑해"
         let korObj = "너"
 
-        if(subject == "I") {
-            korSub = "나"
-        }
-
         setTranslate(korSub + " " + korObj + " " + korVerb)
     }
 
